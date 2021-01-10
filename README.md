@@ -6,3 +6,8 @@
 4. Every Lecturer is provided with a QRCode which they will project via a projector.
 5. Students on scanning the QRcode through their mobile phones are redirected to the attendance portal where they fill their details and mark attendance.
 6. The attendance thus marked is directly uploaded to the server.
+
+Technical aspects of this project :
+ Languages used : Php , javascript,css3,html5
+ Database used : MYSQL
+ QRCode uploaded is a dummy image , qrcodes are generated on deployment.
